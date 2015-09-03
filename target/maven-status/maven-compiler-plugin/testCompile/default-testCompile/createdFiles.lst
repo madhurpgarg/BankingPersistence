@@ -1,0 +1,3 @@
+com\inflow\banking\domain\TestClient.class
+com\inflow\banking\domain\BankingServiceTest.class
+com\inflow\banking\domain\InternetBankingServiceTest.class
